@@ -78,6 +78,8 @@
     <Content Include="HtmlPage1.html" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\Script.js" />
+    <Content Include="Scripts\stringService.js" />
+    <Content Include="Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
